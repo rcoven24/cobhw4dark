@@ -1,1 +1,3 @@
-# cobhw4dark
+---
+permalink: /index.html
+---
